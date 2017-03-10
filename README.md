@@ -30,3 +30,7 @@ $scope.accounts = [
 		{ id:3, firstname: 'Esteban', lastname: 'Torres', mail: 'etorres@atypax.net', accountNumber:'189-123223123-1', amount:'999999.99', currency:'USD$' },
 		{ id:4, firstname: 'Erving', lastname: 'Córdova', mail: 'ecordova@atypax.net', accountNumber:'189-789987666-1', amount:'533.34', currency:'S/.' }
 	];
+
+	otras paginas
+	http://fontawesome.io/
+	http://getbootstrap.com
