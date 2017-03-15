@@ -1,6 +1,7 @@
 # angular-clase-2
 
 Por Pablo Eulogio
+14/03/17
 
 - Importar la fuente Open Sans
 - Importar Bootstrap
